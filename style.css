@@ -1,0 +1,51 @@
+/* .container mt-5 {
+    margin-top: 19%;
+    font-size: 4%;
+    padding-top: 18%;
+
+} */
+
+.container-fluid a{
+color: rgb(15, 8, 8);
+}
+.hen span{
+    color: rgb(5, 17, 5);
+}
+ 
+.hen a{
+    color: rgb(25, 211, 18);
+}
+
+img{
+    width: 30%;
+    float: right;
+    margin-left: 20%;
+}
+
+.col-5{
+    margin-left: 3pc;
+    color: aliceblue;
+}
+
+  .col-4{
+        color: rgb(232, 238, 243);
+    }
+    .ask .btn{
+        margin-top: 15px;
+    }
+    
+    .ask {
+        color: aliceblue;
+    }
+    .ask i{
+        color: aquamarine;
+        font-size: 25px;
+        margin-inline: 5px;
+        margin-bottom: 20px;
+
+
+
+
+
+
+
